@@ -1,0 +1,31 @@
+.box1 {
+  width: 300px;
+  height: 600px;
+  background-color: red;
+  margin: 30px;
+  padding: 30px;
+  border-top: 6px dotted black;
+}
+
+.box2 {
+  width: 400px;
+  height: 100px;
+  background-color: gold;
+  border: 5px solid white;
+  border: 6px dashed white;
+}
+
+.box3 {
+  width: 400px;
+  height: 100px;
+  background-color: yellowgreen;
+  border: 6px double white;
+  margin-top: 10px;
+}
+
+.box4 {
+  width: 200px;
+  height: 200px;
+  background-color: teal;
+  border: 3px solid black;
+}
